@@ -1,0 +1,23 @@
+userId	geneSymbol	geneName	entrezgene	gLink
+ENSG00000186599	DEFB105A	defensin beta 105A	245908	https://www.ncbi.nlm.nih.gov/gene/?term=245908
+ENSG00000186599	DEFB105B	defensin beta 105B	504180	https://www.ncbi.nlm.nih.gov/gene/?term=504180
+ENSG00000102837	OLFM4	olfactomedin 4	10562	https://www.ncbi.nlm.nih.gov/gene/?term=10562
+ENSG00000118113	MMP8	matrix metallopeptidase 8	4317	https://www.ncbi.nlm.nih.gov/gene/?term=4317
+ENSG00000196415	PRTN3	proteinase 3	5657	https://www.ncbi.nlm.nih.gov/gene/?term=5657
+ENSG00000100448	CTSG	cathepsin G	1511	https://www.ncbi.nlm.nih.gov/gene/?term=1511
+ENSG00000139572	GPR84	G protein-coupled receptor 84	53831	https://www.ncbi.nlm.nih.gov/gene/?term=53831
+ENSG00000123689	G0S2	G0/G1 switch 2	50486	https://www.ncbi.nlm.nih.gov/gene/?term=50486
+ENSG00000169397	RNASE3	ribonuclease A family member 3	6037	https://www.ncbi.nlm.nih.gov/gene/?term=6037
+ENSG00000134827	TCN1	transcobalamin 1	6947	https://www.ncbi.nlm.nih.gov/gene/?term=6947
+ENSG00000179869	ABCA13	ATP binding cassette subfamily A member 13	154664	https://www.ncbi.nlm.nih.gov/gene/?term=154664
+ENSG00000184357	HIST1H1B	histone cluster 1 H1 family member b	3009	https://www.ncbi.nlm.nih.gov/gene/?term=3009
+ENSG00000124469	CEACAM8	carcinoembryonic antigen related cell adhesion molecule 8	1088	https://www.ncbi.nlm.nih.gov/gene/?term=1088
+ENSG00000149516	MS4A3	membrane spanning 4-domains A3	932	https://www.ncbi.nlm.nih.gov/gene/?term=932
+ENSG00000198829	SUCNR1	succinate receptor 1	56670	https://www.ncbi.nlm.nih.gov/gene/?term=56670
+ENSG00000272398	CD24	CD24 molecule	100133941	https://www.ncbi.nlm.nih.gov/gene/?term=100133941
+ENSG00000273983	HIST1H3G	histone cluster 1 H3 family member g	8355	https://www.ncbi.nlm.nih.gov/gene/?term=8355
+ENSG00000204388	HSPA1B	heat shock protein family A (Hsp70) member 1B	3304	https://www.ncbi.nlm.nih.gov/gene/?term=3304
+ENSG00000088325	TPX2	TPX2, microtubule nucleation factor	22974	https://www.ncbi.nlm.nih.gov/gene/?term=22974
+ENSG00000203811	HIST2H3C	histone cluster 2 H3 family member c	126961	https://www.ncbi.nlm.nih.gov/gene/?term=126961
+ENSG00000203852	HIST2H3A	histone cluster 2 H3 family member a	333932	https://www.ncbi.nlm.nih.gov/gene/?term=333932
+ENSG00000134070	IRAK2	interleukin 1 receptor associated kinase 2	3656	https://www.ncbi.nlm.nih.gov/gene/?term=3656

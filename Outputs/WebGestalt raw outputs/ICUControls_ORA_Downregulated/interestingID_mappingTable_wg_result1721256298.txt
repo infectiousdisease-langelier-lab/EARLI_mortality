@@ -1,0 +1,16 @@
+userId	geneSymbol	geneName	entrezgene	gLink
+ENSG00000100079	LGALS2	galectin 2	3957	https://www.ncbi.nlm.nih.gov/gene/?term=3957
+ENSG00000004838	ZMYND10	zinc finger MYND-type containing 10	51364	https://www.ncbi.nlm.nih.gov/gene/?term=51364
+ENSG00000112799	LY86	lymphocyte antigen 86	9450	https://www.ncbi.nlm.nih.gov/gene/?term=9450
+ENSG00000187808	SOWAHD	sosondowah ankyrin repeat domain family member D	347454	https://www.ncbi.nlm.nih.gov/gene/?term=347454
+ENSG00000138744	NAAA	N-acylethanolamine acid amidase	27163	https://www.ncbi.nlm.nih.gov/gene/?term=27163
+ENSG00000158473	CD1D	CD1d molecule	912	https://www.ncbi.nlm.nih.gov/gene/?term=912
+ENSG00000028277	POU2F2	POU class 2 homeobox 2	5452	https://www.ncbi.nlm.nih.gov/gene/?term=5452
+ENSG00000115841	RMDN2	regulator of microtubule dynamics 2	151393	https://www.ncbi.nlm.nih.gov/gene/?term=151393
+ENSG00000122986	HVCN1	hydrogen voltage gated channel 1	84329	https://www.ncbi.nlm.nih.gov/gene/?term=84329
+ENSG00000133597	ADCK2	aarF domain containing kinase 2	90956	https://www.ncbi.nlm.nih.gov/gene/?term=90956
+ENSG00000239697	TNFSF12	TNF superfamily member 12	8742	https://www.ncbi.nlm.nih.gov/gene/?term=8742
+ENSG00000093010	COMT	catechol-O-methyltransferase	1312	https://www.ncbi.nlm.nih.gov/gene/?term=1312
+ENSG00000023191	RNH1	ribonuclease/angiogenin inhibitor 1	6050	https://www.ncbi.nlm.nih.gov/gene/?term=6050
+ENSG00000088970	KIZ	kizuna centrosomal protein	55857	https://www.ncbi.nlm.nih.gov/gene/?term=55857
+ENSG00000064201	TSPAN32	tetraspanin 32	10077	https://www.ncbi.nlm.nih.gov/gene/?term=10077
